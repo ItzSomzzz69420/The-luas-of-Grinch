@@ -1,3 +1,3 @@
 # The-luas-of-Grinch
  Grinch
-This is the neverlose version
+Wont work bad fata will breake audio
